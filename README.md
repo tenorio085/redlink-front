@@ -17,7 +17,7 @@ doações (respeitando as regras oficiais de 60/90 dias) e cancela agendamentos.
 | O quê | Endereço |
 |-------|----------|
 | Aplicação na Vercel | _PREENCHER_ |
-| Repositório do front-end (GitHub) | _PREENCHER_ |
+| Repositório do front-end (GitHub) | https://github.com/tenorio085/redlink-front |
 | API Java publicada (Render) | https://redlink-api-4n0s.onrender.com |
 | Repositório da API Java | https://github.com/tenorio085/redlink-api |
 | Vídeo no YouTube (até 3 min) | _PREENCHER_ |
