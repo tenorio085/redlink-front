@@ -44,6 +44,8 @@ export const INTEGRANTES: Integrante[] = [
     foto: "/integrantes/569032.png",
     posicaoFoto: "50% 40%",
     turma: "1TDSPK",
+    github: "https://github.com/gustavoTT10",
+    linkedin: "https://www.linkedin.com/in/gustavo-souza-9bb62a303",
   },
 ];
 

@@ -20,7 +20,7 @@ doações (respeitando as regras oficiais de 60/90 dias) e cancela agendamentos.
 | Repositório do front-end (GitHub) | https://github.com/tenorio085/redlink-front |
 | API Java publicada (Render) | https://redlink-api-4n0s.onrender.com |
 | Repositório da API Java | https://github.com/tenorio085/redlink-api |
-| Vídeo no YouTube (até 3 min) | _PREENCHER_ |
+| Vídeo no YouTube (até 3 min) | https://youtu.be/GrSztI8W-jY |
 
 > A API está no plano gratuito do Render, que "dorme" quando fica sem uso. A primeira requisição pode levar
 > até um minuto; a interface mostra um aviso enquanto espera.
@@ -33,7 +33,7 @@ doações (respeitando as regras oficiais de 60/90 dias) e cancela agendamentos.
 | Felipe Tenorio Diniz | RM568828 | 1TDSPI | [tenorio085](https://github.com/tenorio085) | — |
 | João Pedro Rodrigues Siqueira | RM571316 | 1TDSPI | [JoaoSiqueira12](https://github.com/JoaoSiqueira12) | [joão-siqueira](https://www.linkedin.com/in/jo%C3%A3o-siqueira-25a055410) |
 | Arthur Netto Barbosa | RM569982 | 1TDSPI | [arthurnetto08](https://github.com/arthurnetto08) | [arthur-barbosa](https://www.linkedin.com/in/arthur-barbosa-8654353bb) |
-| Gustavo Tenorio de Souza | RM569032 | 1TDSPK | — | — |
+| Gustavo Tenorio de Souza | RM569032 | 1TDSPK | [gustavoTT10](https://github.com/gustavoTT10) | [gustavo-souza](https://www.linkedin.com/in/gustavo-souza-9bb62a303) |
 
 ## Tecnologias
 
