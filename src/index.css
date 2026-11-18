@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* Tema da RedLink: cores e fonte usadas pelas classes do Tailwind (ex.: bg-sangue-600) */
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --color-sangue-50: #fef2f3;
+  --color-sangue-100: #fde3e6;
+  --color-sangue-200: #fbccd2;
+  --color-sangue-300: #f7a3ad;
+  --color-sangue-400: #f06d7e;
+  --color-sangue-500: #e53e55;
+  --color-sangue-600: #c8102e;
+  --color-sangue-700: #a80c27;
+  --color-sangue-800: #8c0f26;
+  --color-sangue-900: #771126;
+  --color-sangue-950: #42040f;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white font-sans text-slate-800 antialiased;
+  }
+
+  /* Contorno visível para quem navega pelo teclado */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-sangue-600;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
